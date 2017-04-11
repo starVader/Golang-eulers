@@ -1,3 +1,3 @@
 # eulers
 
-Solutions to all eulers problem in golang https://projecteuler.net/archives
+Solutions to eulers problem archieve in golang https://projecteuler.net/archives
